@@ -11,7 +11,7 @@ export const StoreModal = () => {
                    onClose={
                        storeModal.onClose
                    }>
-        Create Store Form!
+        Create Store Form
     </Modal>)
 }
 
